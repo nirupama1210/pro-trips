@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pro-trips/static/css/main.b6d653b4.css",
+    "main.js": "/pro-trips/static/js/main.ee285667.js",
+    "static/js/787.886c4553.chunk.js": "/pro-trips/static/js/787.886c4553.chunk.js",
+    "static/media/trophy.svg": "/pro-trips/static/media/trophy.1317b9572a4a7f1f29188fa52e22eff9.svg",
+    "static/media/trek.svg": "/pro-trips/static/media/trek.3b9b859c69220b5cfdc2e579b73d65b7.svg",
+    "static/media/add.svg": "/pro-trips/static/media/add.e1c19c9e36d98adaa36804986b4cdbce.svg",
+    "static/media/list.svg": "/pro-trips/static/media/list.587f98ecbf6209a1cf855bf2619c013c.svg",
+    "static/media/sun.svg": "/pro-trips/static/media/sun.7b44ffcd0a795bb10bf2b91f254a9b6f.svg",
+    "index.html": "/pro-trips/index.html",
+    "static/media/home.svg": "/pro-trips/static/media/home.e33adb690bb92db3ca076705febee0c7.svg",
+    "main.b6d653b4.css.map": "/pro-trips/static/css/main.b6d653b4.css.map",
+    "main.ee285667.js.map": "/pro-trips/static/js/main.ee285667.js.map",
+    "787.886c4553.chunk.js.map": "/pro-trips/static/js/787.886c4553.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d653b4.css",
+    "static/js/main.ee285667.js"
+  ]
+}
